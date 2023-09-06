@@ -1,0 +1,14 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&family=Lato&family=Oswald&display=swap" rel="stylesheet">
+
+font-family: 'Fraunces', serif;  h1
+font-family: 'Lato', sans-serif; p
+font-family: 'Oswald', sans-serif;  a h2 h3
+
+#c4a47c
+#fff
+#000000
+#604829
+#666
+#ACACAC
