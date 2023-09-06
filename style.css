@@ -113,15 +113,17 @@ nav a{
     background-attachment: fixed;
 }
 
-#contato{
+.area{
     width: 100%;
     height: 600px;
+}
+
+.contato{
     background-image: url(assets/parallax-imagem4.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-
 .container-contato{
     width: 800px;
     margin: 40px auto;
@@ -138,3 +140,43 @@ nav a{
     background-color: #604829;
     color: #fff;
 }
+
+
+.paragrafo{
+    width: 450px;
+    height: 100px;
+    margin: 40px auto;
+    color: #fff;
+    background-color: #604829;
+}
+
+.paragrafo p{
+    padding-top: 10px;
+    text-shadow: 3px 3px 5px black;
+}
+
+.horarios{
+    background-image: url(assets/cafeteria.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;   
+    position: relative;          
+}
+
+.horarios h2{
+    width: 900px;
+    margin-left:auto;
+    margin-right: auto;
+    padding-top: 80px;
+    text-align: center;
+    color: #fff;
+    
+}
+
+.horarios ul{
+    color: #fff;
+    position: absolute;
+    top: 150px;
+    left: 20vw;
+}
+
