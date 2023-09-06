@@ -58,7 +58,7 @@ nav a{
 
 .container-informacao{
     width: 60%;
-    height: 30vh;
+    height: 35vh;
     margin: 40px auto;
 }
 
@@ -78,10 +78,36 @@ nav a{
     color: #666;
 }
 
-.img-parallax{
+.container-parallax{
     width: 100%;
     height: 40vh;
+    position: relative;
+}
+
+.container-parallax h3{
+    position: absolute;
+    padding: 5px 15px;
+    width: 300px;
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    font-family: 'Oswald', sans-serif;
+    line-height: 26px;
+    top: 15vh;
+    left: 40vw;
+    background-color: #604829;
+}
+
+.img-parallax1{
     background-image: url(assets/parallax-imagem2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.img-parallax2{
+    background-image: url(assets/parallax-imagem3.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
