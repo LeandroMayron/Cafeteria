@@ -210,8 +210,11 @@ nav a{
     margin-left: 100px;
 }
 
-.fechado{
-    font-weight: bold;
+.text-evidencia{
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: 'Oswald', sans-serif;
     color: #c4a47c;
 }
 
@@ -238,4 +241,8 @@ nav a{
     position: absolute;
     right: 100px;
     top:-25px
+}
+
+.paragrafo-footer span{
+    padding-left: 0;
 }
